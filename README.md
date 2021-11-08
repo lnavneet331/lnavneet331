@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Navneet Lamba
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me iNav_pro on instagram
 
 <!---
 lnavneet331/lnavneet331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
