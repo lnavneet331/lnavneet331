@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Navneet Lamba
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Advanced Learning Algorithms
+- 💞️ I’m looking to collaborate on Android Dev projects
 - 📫 Reach me iNav_pro on instagram or NavneetLamba10 on twitter
 
 <!---
